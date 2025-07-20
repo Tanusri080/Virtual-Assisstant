@@ -46,7 +46,7 @@ The weather.py file uses Google's weather feature through HTTP requests to fetch
 
 ## Author
 **Tanu Sri Puli** 
-- Connect with me on LinkedIn [https://www.linkedin.com/in/tanu-sri-puli-480793268]
+- Connect with me on LinkedIn [https://linkedin.com/in/tanu-sri-puli-480793268]
 - B.Tech CSE | Kalasalingam University
 
 ## 📄 License
