@@ -12,17 +12,6 @@ This is a Python-based **Virtual Assistant** with a simple GUI, designed to take
 - 🖥️ Graphical User Interface (GUI)
 - ⚙️ Modular structure for easy expansion
 
----
-
-## 📁 Project Structure
-
-├── action.py # Main file to start the assistant
-├── GUI.py # User interface using tkinter
-├── speech_to_text.py # Converts microphone input to text
-├── text_to_speech.py # Converts text to audio output
-├── weather.py # Fetches live weather information
-├── pycache/ # Python cache files
-
 
 ---
 
